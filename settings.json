@@ -51,7 +51,7 @@
       "Read(~/.netrc)",
       "Read(**/.pgpass)",
       "Read(**/.npmrc)",
-      "Read(~/.config/gh/**)",
+      "Read(~/.config/gh/**)"
     ]
   }
 }
